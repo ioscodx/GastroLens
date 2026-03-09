@@ -31,6 +31,7 @@ Designed for confident home recreation of restaurant-style dishes.
 ├── index.html        # Landing page
 ├── privacy.html      # Privacy Policy
 ├── terms.html        # Terms & Conditions
+├── support.html      # Support Center
 ├── styles.css        # Shared styles
 └── favicon.ico       # Site icon (optional)
 ```
