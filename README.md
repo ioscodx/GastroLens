@@ -39,7 +39,7 @@ The site is configured to remain accessible by direct link while staying out of 
 Current protections:
 
 - Global `<meta name="robots">` tag on all public pages
-- Root `robots.txt` blocking all crawlers
+- Root `robots.txt` blocking all crawlers except `/app-ads.txt`
 - Global `X-Robots-Tag` response header configured in `render.yaml`
 
 Applied directives:
